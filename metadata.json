@@ -1,0 +1,6 @@
+{
+  "name": "ailaysa",
+  "description": "A clean, modern, minimal, and highly user-friendly bilingual AI content editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
